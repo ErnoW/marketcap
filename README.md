@@ -1,6 +1,6 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6d376aa3-e8e5-43ca-a865-2b26d66a7af2/deploy-status)](https://app.netlify.com/sites/coinpanda/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/fb14b164-e2c6-4b6f-a6dd-c7c12d8b4b78/deploy-status)](https://app.netlify.com/sites/market-cap/deploys)
 
-Website: [https://coinpanda.netlify.app](https://coinpanda.netlify.app)
+Website: [https://market-cap.netlify.app/](https://market-cap.netlify.app/)
 
 # Marketcap
 
