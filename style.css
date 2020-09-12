@@ -1,0 +1,29 @@
+body{
+  background: #efefef;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.marketcap{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size:2rem;
+  text-align: center;
+}
+
+.resultbox {
+  padding-bottom:50px;
+}
+
+.positive {
+  color:green
+}
+
+.negative {
+  color:red
+}
+
+.error {
+  color:red
+}
